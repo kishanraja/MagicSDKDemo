@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "22C38CA3-02AA-498E-BEC6-2BDB55EBFF4C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "196FE120-1A02-4BA4-924C-E6A97D7E561C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MagicSDK-Demo/NewContract.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getContractTransaction(for:param:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D7D9DC9-21D7-4214-B16B-DB2F1B0F6913"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MagicSDK-Demo/NewContract.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "sendContractTransaction(to:contractDict:value:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D7D9DC9-21D7-4214-B16B-DB2F1B0F6913 - ffcba39c34f562"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicSDK_Demo.NewContract.sendContractTransaction(to: Swift.Optional&lt;MagicSDK_Web3.EthereumAddress&gt;, contractDict: Swift.Optional&lt;MagicSDK_Web3.SolidityInvocation&gt;, value: Swift.Optional&lt;Swift.UInt64&gt;, completion: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "MagicSDK-Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyperlink/Desktop/KishanRaja/Projects/Funge/Demo/MagicSDK-Demo/MagicSDK-Demo/NewContract.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2136">
+               </Location>
+               <Location
+                  uuid = "5D7D9DC9-21D7-4214-B16B-DB2F1B0F6913 - ddf5968e52f8f2f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MagicSDK_Web3.EthereumData) -&gt; () in MagicSDK_Demo.NewContract.sendContractTransaction(to: Swift.Optional&lt;MagicSDK_Web3.EthereumAddress&gt;, contractDict: Swift.Optional&lt;MagicSDK_Web3.SolidityInvocation&gt;, value: Swift.Optional&lt;Swift.UInt64&gt;, completion: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "MagicSDK-Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyperlink/Desktop/KishanRaja/Projects/Funge/Demo/MagicSDK-Demo/MagicSDK-Demo/NewContract.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDCD48B4-1037-407B-9ED7-8401C27EBA09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MagicSDK-Demo/NewContract.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "getContractTransaction(for:param:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDCD48B4-1037-407B-9ED7-8401C27EBA09 - 492577e4229042a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MagicSDK_Demo.NewContract.getContractTransaction(for: Swift.String, param: BigInt.BigInt, completion: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "MagicSDK-Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyperlink/Desktop/KishanRaja/Projects/Funge/Demo/MagicSDK-Demo/MagicSDK-Demo/NewContract.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "BDCD48B4-1037-407B-9ED7-8401C27EBA09 - 21cc15b6ae388a74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MagicSDK_Demo.NewContract.getContractTransaction(for: Swift.String, param: BigInt.BigInt, completion: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "MagicSDK-Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hyperlink/Desktop/KishanRaja/Projects/Funge/Demo/MagicSDK-Demo/MagicSDK-Demo/NewContract.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68A2E21D-2585-40FC-94F5-BEDAFEAB96FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MagicSDK-Web3/MagicSDK-Web3/Classes/ContractABI/Contract/EthereumContract.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "call(_:outputs:block:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34466D2A-D155-4758-B4F2-9AC757B8903D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/MagicSDK-Web3/MagicSDK-Web3/Classes/ContractABI/Contract/EthereumContract.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "call(_:outputs:block:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
